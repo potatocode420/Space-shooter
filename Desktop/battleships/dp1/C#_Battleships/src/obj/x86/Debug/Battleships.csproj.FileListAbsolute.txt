@@ -1,0 +1,3 @@
+C:\Users\Marc\Desktop\battleships\dp1\C#_Battleships\Battleships\Battleships\src\obj\x86\Debug\Battleships.csprojResolveAssemblyReference.cache
+C:\Users\Marc\Desktop\battleships\dp1\C#_Battleships\Battleships\Battleships\src\obj\x86\Debug\Battleships.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\battleships\dp1\C#_Battleships\Battleships\Battleships\src\obj\x86\Debug\Battleships.csproj.CoreCompileInputs.cache
